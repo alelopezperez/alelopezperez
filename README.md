@@ -3,8 +3,7 @@
 
 | Data Structures & Algorithms|System Design|Web Development|Programming Languages
 | :-------------: |:-------------:| :-----:| :-----:|
-| |Topic|Progress     | topic | topic | topic      |
-|  Topic|100%     |
+| A | B:-------------: | |a|b    | topic | topic | topic      |
 
 <!--
 **alelopezperez/alelopezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
