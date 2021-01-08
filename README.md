@@ -4,7 +4,7 @@
 | Data Structures & Algorithms|System Design|Web Development|Programming Languages
 | :-------------: |:-------------:| :-----:| :-----:|
 | <br><ul><li>- [ ] Heap</li></ul>   | I DONT KNOW WHAT I DONT KNOW | <br><ul><li>- [ ] NodeJs</li></ul> | Master C++      |
-| <br><ul><li>- [ ] Dynamic Programming</li></ul>   |  | <br><ul><li>- [ ] React</li></ul>  | <br><ul><li>- [ ] Javascript for WebDev only </li></ul>     |
+| <br><ul><li>- [ ] Dynamic Programming</li></ul>   |  | <br><ul><li>- [ ] React</li></ul>  | Javascript WebDev<br><ul><li>- [ ] Javascript for WebDev only </li></ul>     |
 
 
 <!--
