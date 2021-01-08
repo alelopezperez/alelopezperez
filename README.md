@@ -2,7 +2,7 @@
 
 
 | Data Structures & Algorithms|System Design|Web Development|Programming Languages
-| ------------- |:-------------:| -----:| -----:|
+| :-------------: |:-------------:| :-----:| :-----:|
 | topic     | topic | topic | topic      |
 
 <!--
