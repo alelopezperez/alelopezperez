@@ -1,4 +1,9 @@
-### Hi there 👋
+### Long Term Learning Objectives
+
+
+| Data Structures & Algorithms|System Design|Web Development|Programming Languages
+| ------------- |:-------------:| -----:| -----:|
+| topic     | topic | topic | topic      |
 
 <!--
 **alelopezperez/alelopezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
