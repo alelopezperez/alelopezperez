@@ -3,7 +3,7 @@
 
 | Data Structures & Algorithms|System Design|Web Development|Programming Languages
 | :-------------: |:-------------:| :-----:| :-----:|
-| - [x] Heap   | I DONT KNOW WHAT I DONT KNOW | NodeJs | Master C++      |
+| <ul><li>- [x] Heap</li><li>-   | I DONT KNOW WHAT I DONT KNOW | NodeJs | Master C++      |
 
 <!--
 **alelopezperez/alelopezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
