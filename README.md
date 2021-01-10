@@ -7,7 +7,7 @@
 | <br><ul><li>- [ ] Dynamic Programming</li></ul>|  |<br><ul><li>- [ ] React</li></ul> |Javascript WebDev<br><ul><li>- [ ] Javascript for WebDev only</li></ul>|
 | <br><ul><li>- [ ] Bit Manipulation</li></ul>|  |<br><ul><li>- [ ] ExpressJS</li></ul> |<br><ul><li>- [ ] Rust</li></ul>|
 | Self Balancing Trees<br><ul><li>- [ ] AVL Tree</li><li>- [ ] Red Black Tree</li></ul>|  |<br><ul><li>- [ ] ExpressJS</li></ul> |<br><ul><li>- [ ] Functional Programing</li></ul>|
-| <br><ul><li>- [ ] Bit Manipulation</li></ul>|  |<br><ul><li>- [ ] ExpressJS</li></ul> |<br><ul><li>- [ ] Rust</li></ul>|
+| <br><ul><li>- [ x ] KMP algorithm/li></ul>|  |<br><ul><li>- [ ] API</li></ul> ||
 
 
 <!--
