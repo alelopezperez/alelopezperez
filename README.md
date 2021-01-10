@@ -8,6 +8,13 @@
 | <br><ul><li>- [ ] Bit Manipulation</li></ul>|  |<br><ul><li>- [ ] ExpressJS</li></ul> |<br><ul><li>- [ ] Rust</li></ul>|
 | Self Balancing Trees<br><ul><li>- [ ] AVL Tree</li><li>- [ ] Red Black Tree</li></ul>|  |<br><ul><li>- [ ] ExpressJS</li></ul> |<br><ul><li>- [ ] Functional Programing</li></ul>|
 | <br><ul><li>- [x] KMP Algorithm</li></ul>|  |<br><ul><li>- [ ] API</li></ul> ||
+| <br><ul><li>- [x] Rabin Karp Algorithm</li></ul>|  |<br><ul><li>- [ ] REST</li></ul> ||
+
+||  |<br><ul><li>- [ ] GraphQl</li></ul> ||
+||  |DevOps<br><ul><li>- [ ] Docker</li></ul> ||
+||  |<br><ul><li>- [ ] Redis</li></ul> ||
+
+
 
 
 <!--
